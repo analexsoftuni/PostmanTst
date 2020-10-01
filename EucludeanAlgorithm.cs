@@ -19,6 +19,8 @@ namespace EucludeanAlgorithm
                 a = oldB;
             }
             Console.WriteLine("GCD = {0}", a);
+            
+            Console.WriteLine("Test");
         }
     }
 }
